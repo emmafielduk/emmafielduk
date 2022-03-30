@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emmafielduk
+- 🌱 I’m currently learning react-remix, fela css
+- 📫 Reach me at https://www.linkedin.com/in/emma-field/
